@@ -1,0 +1,54 @@
+{
+  "register": [
+    {
+      "id": "1001",
+      "customerName": "Sushmitha Dsouza",
+      "contactNo": "9972338729",
+      "gender": "Female",
+      "address": "Gettimar House Jeswin Villa \nMoodupalimar \nPalimar 675856",
+      "password": "Sushmitha@772",
+      "confirmPassword": "Sushmitha@772"
+    },
+    {
+      "id": "",
+      "customerName": "Sushmitha Dsouza",
+      "contactNo": "9972338729",
+      "gender": "Female",
+      "address": "Gettimar House Jeswin Villa \nMoodupalimar \nPalimar 894565",
+      "password": "Jeswin@772",
+      "confirmPassword": "Jeswin@772"
+    },
+    {
+      "id": "ccb6",
+      "customerName": "Sushmitha Dsouza",
+      "contactNo": "9972338729",
+      "gender": "Female",
+      "address": "Gettimar House Jeswin Villa \nMoodupalimar \nPalimar 886432",
+      "password": "Jeswin@772",
+      "confirmPassword": "Jeswin@772"
+    },
+    {
+      "id": "bd8b",
+      "customerName": "Sushmitha Dsouza",
+      "contactNo": "9972338723",
+      "gender": "Female",
+      "address": "Gettimar House Jeswin Villa \nMoodupalimar \nPalimar 788638",
+      "password": "Palimar@772",
+      "confirmPassword": "Palimar@772"
+    },
+    {
+      "id": "50cb",
+      "userName": "Sushmitha",
+      "email": "sushmithajdsouza77@gmail.com",
+      "password": "Qwerty@123",
+      "confirmPassword": "Qwerty@123"
+    },
+    {
+      "id": "aae0",
+      "userName": "Sushmitha",
+      "email": "sushmithajdsouza@gmail.com",
+      "password": "Qwerty@123",
+      "confirmPassword": "Qwerty@123"
+    }
+  ]
+}

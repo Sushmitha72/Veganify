@@ -1,0 +1,79 @@
+# === React + TypeScript Frontend ===
+node_modules/
+build/
+dist/
+.env
+.env.local
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Flask + Python Backend ===
+_pycache_/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.log
+*.env
+*.db
+*.sqlite3
+instance/
+env/
+venv/
+ENV/
+flask_session/
+
+# === Ultralytics YOLOv8 ===
+*.pt
+runs/
+weights/
+yolo_config/
+data.yaml
+train_cache/
+model/
+models/
+checkpoints/
+
+# === Scikit-learn Model Files ===
+*.pkl
+*.joblib
+*.sav
+
+# === Uploaded Images & Outputs ===
+uploads/
+results/
+static/uploads/
+static/results/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+
+# === Bootstrap & Styling (if local maps used) ===
+*.map
+
+# === MySQL / XAMPP Database Files ===
+*.sql
+*.sql.gz
+*.bak
+*.frm
+*.ibd
+*.myd
+*.myi
+
+# === IDE / Editor Settings ===
+.vscode/
+.idea/
+*.iml
+
+# === OS & Misc Files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# === Git (if needed) ===
+.git/
